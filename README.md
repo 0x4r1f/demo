@@ -1,2 +1,2 @@
-# demo
-This is create for fun 
+# Demo
+This is create for testing repository.
